@@ -1,0 +1,8 @@
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\bin\Debug\LInkedList.exe.config
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\bin\Debug\LInkedList.exe
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\bin\Debug\LInkedList.pdb
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\bin\Debug\nunit.framework.dll
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\bin\Debug\nunit.framework.xml
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\obj\Debug\LInkedList.exe
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\LInkedList\obj\Debug\LInkedList.pdb

@@ -1,0 +1,18 @@
+﻿Build started 2015-02-13 11:21:35.
+     1>Project "C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\Komplexitets\Komplexitets.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(87): error C2440: 'initializing' : cannot convert from 'void *' to 'double *'
+                 Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(90): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(161): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(164): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(167): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\main.cpp(3): error C2084: function 'int main(void)' already has a body
+                 c:\users\gunther\documents\visual studio 2013\projects\doa14\komplexitets\thomas_inl2funktioner.c(143) : see previous definition of 'main'
+     1>Done Building Project "C:\Users\Gunther\Documents\Visual Studio 2013\Projects\DOA14\Komplexitets\Komplexitets.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.79
